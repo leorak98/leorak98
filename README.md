@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 ### 📞 Contact Me
 
-<a href="mailto:leonardorak98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=linkedin&logoColor=white" alt="Gmail"></a>
+<a href="mailto:leonardorak98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/leonardo-rakotondramanana-21489820b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/leonardo.rakotondramanana" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/leonardo.rakotondramanana/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://wa/me/261328662185" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=linkedin&logoColor=white" alt="Gmail"></a>
+<a href="https://wa/me/261328662185" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=whatshapp&logoColor=white" alt="Gmail"></a>
