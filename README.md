@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- ### 💬 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leorak98&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt=""> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leorak98&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true" alt=""> -->
 
 ### 📞 Contact Me
 
