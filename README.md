@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Welcome to my Github Profile
-
+![komarev GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=leorak98&color=blue&style=flat-square)
+<!-- (https://komarev.com/ghpvc) -->
 <p align="center"><a href="#" target="_blank"><img src="./images/logo_leo.png" width="400"></a></p>
 <!--
 **leorak98/leorak98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![komarev GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=leorak98&color=blue&style=flat-square)
-<!-- (https://komarev.com/ghpvc) -->
 
 ### ⭐ GitHub Stats 🙈
 
