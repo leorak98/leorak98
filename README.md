@@ -1,5 +1,5 @@
 ### Hi there 👋
-####<img src="./images/logo_leo.png" width="400">
+ <img src="./images/logo_leo.png" width="400">
 ### Welcome to my Github Profile
 ![komarev GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=leorak98&color=blue&style=flat-square)
 <!-- (https://komarev.com/ghpvc) -->
