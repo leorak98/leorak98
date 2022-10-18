@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./images/logo_leo.png" width="400">
+<img src="./images/logo_leo.png" width="500">
 
 <div align="center">
 
