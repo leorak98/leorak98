@@ -1,3 +1,7 @@
+### Hi there 👋
+
+<img src="./images/logo_leo.png" width="400">
+
 <div align="center">
 
 ![komarev GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=leorak98&color=blue&style=flat-square)
@@ -6,10 +10,6 @@
 
 <!--<br><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=De+karakory+ma+zany;Ino+feeling;Ino+passe" alt="Headline" />-->
 </div>
-
-### Hi there 👋
-
-<img src="./images/logo_leo.png" width="400">
 
 ### Welcome to my Github Profile
 - 🔭 I’m currently working on Flutter
