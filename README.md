@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Laravel & React
+
 #<img src="./images/logo_leo.png" width="400">
 ### Welcome to my Github Profile
 ![komarev GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=leorak98&color=blue&style=flat-square)
