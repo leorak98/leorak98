@@ -2,15 +2,15 @@
 
 <img src="./images/logo_leo.png" width="500">
 
-<div align="center">
+<!--<div align="center">-->
 
 ![komarev GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=leorak98&color=blue&style=flat-square)
 
 [![GitHub followers](https://img.shields.io/github/followers/leorak98.svg?style=social&label=Followers)](https://github.com/schorio?tab=followers)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Leonardo;I+like+programing;If+you+'re+interested+,.+.+.;Contact+me+😁+📲" alt="Description" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Prénom:+Leonardo;Nom:+Rakotondramanana;E-Mail:+leonardorak98@gmail.com;Mot+de+passe:+**********;..." alt="Description" />
 
-</div>
+<!--</div>-->
 
 ### Welcome to my Github Profile
 - 🔭 I’m currently working on Flutter
