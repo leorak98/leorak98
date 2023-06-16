@@ -1,16 +1,18 @@
-### Hi there 👋
-
+ <p align="center">
 <img src="./images/logo_leo.png" width="500">
+ </p>
 
 <!--<div align="center">-->
+ <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Prénom:+Leonardo;Nom:+Rakotondramanana;..." alt="Description" />
+ </p>
 
 ![komarev GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=leorak98&color=blue&style=flat-square)
 
 <!--[![GitHub followers](https://img.shields.io/github/followers/leorak98.svg?style=social&label=Followers)](https://github.com/schorio?tab=followers)-->
 
 <!--</div>-->
-
+### Hi there 👋
 ### Welcome to my Github Profile
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Laravel & React
@@ -35,12 +37,9 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leorak98&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
- <p align="center">
-
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=leorak98&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-</p>
+ <img src ="https://github-readme-streak-stats.herokuapp.com?user=leorak98&theme=darcula&hide_border=true&background=FFFFFF00">
+ <br>
+ <br>
 
 ### 📞 Contact Me
 
