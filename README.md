@@ -14,8 +14,8 @@
 <!--</div>-->
 ### Hi there 👋
 ### Welcome to my Github Profile
-- 🔭 I’m currently working on Symfony Flutter
-- 🌱 I’m currently learning Laravel & React
+- 🔭 I’m currently working on Symfony , Flutter
+- 🌱 I’m currently learning Laravel
 
 <!-- (https://komarev.com/ghpvc) -->
 <!--
