@@ -2,7 +2,6 @@
 <img src="./images/logo_leo.png" width="500">
  </p>
 
-<a href="https://leonardo.lprojects.mg" target="_blank">Portfolio</a>
 <!--<div align="center">-->
  <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Prénom:+Leonardo;Nom:+Rakotondramanana;..." alt="Description" />
@@ -17,6 +16,12 @@
 ### Welcome to my Github Profile
 - 🔭 I’m currently working on Symfony , Flutter
 - 🌱 I’m currently learning Laravel
+
+
+### Portfolio 
+<p>
+ Visit my portfolio at  <a href="https://leonardo.lprojects.mg" target="_blank">leonardo.lprojects.mg</a>
+</p>
 
 <!-- (https://komarev.com/ghpvc) -->
 <!--
