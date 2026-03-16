@@ -2,6 +2,7 @@
 <img src="./images/logo_leo.png" width="500">
  </p>
 
+<a href="https://leonardo.lprojects.mg" target="_blank">Portfolio</a>
 <!--<div align="center">-->
  <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Prénom:+Leonardo;Nom:+Rakotondramanana;..." alt="Description" />
