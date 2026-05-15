@@ -9,6 +9,8 @@
 
 ![komarev GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=leorak98&color=blue&style=flat-square)
 
+[![wakatime](https://wakatime.com/badge/user/9402731b-0554-4bd9-8bf8-511288f50b54.svg)](https://wakatime.com/@9402731b-0554-4bd9-8bf8-511288f50b54)
+
 <!--[![GitHub followers](https://img.shields.io/github/followers/leorak98.svg?style=social&label=Followers)](https://github.com/schorio?tab=followers)-->
 
 <!--</div>-->
